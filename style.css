@@ -139,9 +139,7 @@ body {
 
 #About h1 {
     background-color: red;
-    color: white;
     font-size: 3vw;
-    font-weight: lighter;
     padding-top: 0.5vw;
     width: 25vw;
     /* max-width: 30%; */
@@ -194,9 +192,7 @@ body {
 .conn-heading {
     margin: 0 auto;
     background-color: red;
-    color: white;
     font-size: 3vw;
-    font-weight: lighter;
     width: 35vw;
     text-align: center;
     height: 12%;
@@ -246,9 +242,7 @@ body {
 
 #edu-heading {
     background-color: red;
-    color: white;
     font-size: 3vw;
-    font-weight: lighter;
     padding-top: 0.5vw;
     width: 50vw;
     text-align: center;
@@ -309,9 +303,7 @@ body {
 #pop-heading {
     margin: 0 auto;
     background-color: red;
-    color: white;
     font-size: 3vw;
-    font-weight: lighter;
     width: 35vw;
     text-align: center;
     height: 12%;
@@ -347,9 +339,7 @@ td {
 
 #gram-heading {
     background-color: red;
-    color: white;
     font-size: 3vw;
-    font-weight: lighter;
     padding-top: 0.5vw;
     width: 45vw;
     text-align: center;
@@ -387,9 +377,7 @@ td {
 #temp-heading {
     margin: 0 auto;
     background-color: red;
-    color: white;
     font-size: 3vw;
-    font-weight: lighter;
     padding-top: 0.5vw;
     width: 50vw;
     text-align: center;
@@ -449,9 +437,7 @@ td {
 
 #entrance-heading {
     background-color: red;
-    color: white;
     font-size: 3vw;
-    font-weight: lighter;
     padding-top: 0.5vw;
     width: 24vw;
     text-align: center;
@@ -516,9 +502,7 @@ td {
 #slide-heading {
     margin: 0 auto;
     background-color: red;
-    color: white;
     font-size: 3vw;
-    font-weight: lighter;
     padding-top: 0.5vw;
     width: 30vw;
     text-align: center;
